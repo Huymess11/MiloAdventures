@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - left
+  - right
+  - Enemy
+  - coin
+  - spike
+  - checkpoint
+  - deadzone
+  - platform
+  - pos
+  - pos1
+  - pos2
+  - saw
+  - audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GameOver
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 4091712117
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 2860486039
+    locked: 0
+  - name: Player
+    uniqueID: 1416391539
+    locked: 0
+  - name: enermy
+    uniqueID: 3700090923
+    locked: 0
+  - name: trap
+    uniqueID: 2494779191
+    locked: 0
+  - name: coin
+    uniqueID: 663373843
+    locked: 0
+  - name: button
+    uniqueID: 112956765
+    locked: 0
+  - name: heart
+    uniqueID: 1483118187
+    locked: 0
+  - name: gameover
+    uniqueID: 3968439627
+    locked: 0
+  - name: ui
+    uniqueID: 571608755
+    locked: 0
+  - name: New Layer 11
+    uniqueID: 1165277303
+    locked: 0
